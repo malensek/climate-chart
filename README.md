@@ -17,4 +17,4 @@ Where climate-file contains values in this format:
 
 This will produce an output something like the following:
 
-
+<img src="snowmass.png" width="50%" height="50%" alt="sample climate chart"/>
